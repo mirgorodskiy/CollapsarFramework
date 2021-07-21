@@ -6,9 +6,9 @@
 - CLI (Command Line Interface)
 - HTTP Client
 - MVC (Model, View, Controller)
-  - View (from .html/.php to JavaScript-frameworks and PHP templates)
+  - Views (from .html/.php to JavaScript-frameworks and PHP templates)
   - Controllers
-  - Model
+  - Models (Logic)
 - Security components
   - Base Authentification
   - JWT tokens (Auth for API)
